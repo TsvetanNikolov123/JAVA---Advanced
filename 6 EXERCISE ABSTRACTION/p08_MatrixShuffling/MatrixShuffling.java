@@ -3,73 +3,67 @@ package p08_MatrixShuffling;
 import java.util.Arrays;
 import java.util.Scanner;
 
-// 20/100
-
 
 public class MatrixShuffling {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         int[] matrixSize = Arrays.stream(scanner.nextLine().split("\\s+")).mapToInt(Integer::parseInt).toArray();
-
         int rows = matrixSize[0];
         int cols = matrixSize[1];
-
         String[][] matrix = new String[rows][cols];
 
         for (int row = 0; row < rows; row++) {
-            String[] lines = scanner.nextLine().split("\\s+");
-            matrix[row] = lines;
+            String[] tokens = scanner.nextLine().split("\\s+");
+            for (int col = 0; col < cols; col++) {
+                matrix[row][col] = tokens[col];
+            }
         }
 
         while (true) {
-            String[] tokens = scanner.nextLine().split("\\s+");
-
-            boolean invalidInput = false;
-
-            if (tokens[0].equals("END")) {
-                return;
+            String input = scanner.nextLine();
+            if (input.equals("END")) {
+                break;
             }
 
-            // isCorrectLength
-            if (tokens.length != 5) {
+            String[] commands = input.split(" ");
+            if (commands.length != 5) {
                 System.out.println("Invalid input!");
-                invalidInput = true;
+                continue;
             }
 
-            // commands to Int and check is it num from 0-9
-
-            int[] commands = new int[4];
-            for (int i = 1; i < tokens.length; i++) {
-                int num = 0;
-                try {
-                    num = Integer.parseInt(tokens[i]);
-                } catch (Exception e) {
-                    System.out.println("Invalid input!");
-                    invalidInput = true;
-                    break;
-                }
-                if (num > 9) {
-                    System.out.println("Invalid input!");
-                    invalidInput = true;
-                    break;
-                }
-                commands[i - 1] = num;
+            if (!commands[0].equals("swap")) {
+                System.out.println("Invalid input!");
+                continue;
             }
 
-            if (!invalidInput) {
-                String firstTemp = matrix[commands[0]][commands[1]];
-                String secondTemp = matrix[commands[2]][commands[3]];
-
-                matrix[commands[2]][commands[3]] = firstTemp;
-                matrix[commands[0]][commands[1]] = secondTemp;
-
-                printMatrix(matrix, rows, cols);
+            int row1 = 0;
+            int col1 = 0;
+            int row2 = 0;
+            int col2 = 0;
+            try {
+                row1 = Integer.parseInt(commands[1]);
+                row2 = Integer.parseInt(commands[3]);
+                col1 = Integer.parseInt(commands[2]);
+                col2 = Integer.parseInt(commands[4]);
+            } catch (Exception e) {
+                System.out.println("Invalid input!");
+                continue;
             }
 
+            try {
+                String temp = matrix[row1][col1];
+                matrix[row1][col1] = matrix[row2][col2];
+                matrix[row2][col2] = temp;
+            } catch (Exception e) {
+                System.out.println("Invalid input!");
+                continue;
+            }
 
+            printMatrix(matrix, rows, cols);
         }
     }
+
 
     private static void printMatrix(String[][] matrix, int rows, int cols) {
         for (int row = 0; row < rows; row++) {
