@@ -33,7 +33,7 @@ public class SumBigNumbers {
             smallerNumLength = temp;
         }
 
-        // TODO
+        
         int temp = 0;
         for (int i = 0; i < smallerNumLength.length(); i++) {
             int num1 = 0;
