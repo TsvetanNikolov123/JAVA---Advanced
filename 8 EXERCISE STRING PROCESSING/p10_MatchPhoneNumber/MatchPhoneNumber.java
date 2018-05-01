@@ -12,8 +12,8 @@ public class MatchPhoneNumber {
         String regex = "^\\+359([ -])2\\1\\d{3}\\1\\d{4}$";
         String text = reader.readLine();
 
-        while (!text.equals("end")){
-            if (Pattern.matches(regex,text)){
+        while (!text.equals("end")) {
+            if (Pattern.matches(regex, text)) {
                 System.out.println(text);
             }
 
