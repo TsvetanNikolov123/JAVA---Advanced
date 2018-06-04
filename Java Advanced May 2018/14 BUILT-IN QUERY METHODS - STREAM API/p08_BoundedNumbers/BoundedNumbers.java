@@ -12,17 +12,15 @@ public class BoundedNumbers {
     public static void main(String[] args) throws IOException {
 
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
-        String[] boundaries = reader.readLine().split("\\s+");
-
         List<Integer> bounds = Stream.of(reader.readLine().split("\\s+"))
                 .map(Integer::valueOf)
                 .sorted()
                 .collect(Collectors.toList());
 
-        List<Integer> sequenceOfNumbers = Arrays.stream(reader.readLine().split("\\s+"))
+        Arrays.stream(reader.readLine().split("\\s+"))
                 .mapToInt(Integer::valueOf)
                 .filter(x -> bounds.get(0) <= x && x <= bounds.get(1))
-                .boxed()
-                .collect(Collectors.toList());
+                .forEach(n -> System.out.print(n  + " "));
+
     }
 }
