@@ -42,7 +42,7 @@ Print the output in the following format **{firstWord} {secondWord} {thirdWord}
 
 <br/>
 
-### Solution: <a title="01 Read Input" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p01_ReadInput/ReadInput.java">01 Read Input</a>
+### Solution: <a title="01 Read Input" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p01_ReadInput/ReadInput.java">01 Read Input</a>
 
 ---
 
@@ -69,7 +69,7 @@ formatted to the **second digit after the decimal point.**
 
 <br/>
 
-### Solution: <a title="02 Average of Three Numbers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p02_AverageOfThreeNumbers/AverageOfThreeNumbers.java">02 Average of Three Numbers</a>
+### Solution: <a title="02 Average of Three Numbers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p02_AverageOfThreeNumbers/AverageOfThreeNumbers.java">02 Average of Three Numbers</a>
 
 ---
 
@@ -103,7 +103,7 @@ Print the price, **rounded to the second digit** after the decimal separator.
     
 <br/>
 
-### Solution: <a title="03 Euro Trip" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p03_EuroTrip/EuroTrip.java">03 Euro Trip</a>
+### Solution: <a title="03 Euro Trip" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p03_EuroTrip/EuroTrip.java">03 Euro Trip</a>
 
 ---
 
@@ -133,7 +133,7 @@ replace it with five stars "\*":
 
 <br/>
 
-### Solution: <a title="04 Greeting" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p04_Greeting/Greeting.java">04 Greeting</a>
+### Solution: <a title="04 Greeting" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p04_Greeting/Greeting.java">04 Greeting</a>
 
 ---
 
@@ -168,7 +168,7 @@ Format the output to the second digit after the decimal separator.
 
 <br/>
 
-### Solution: <a title="05 Transport Price" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p05_TransportPrice/TransportPrice.java">05 Transport Price</a>
+### Solution: <a title="05 Transport Price" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p05_TransportPrice/TransportPrice.java">05 Transport Price</a>
 
 ---
 
@@ -185,7 +185,7 @@ Using a **while loop**, print the numbers from 0 to 9 inclusive.
 
 <br/>
 
-### Solution: <a title="06 Numbers 0..9" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p06_Numbers0To9/Numbers0To9.java">06 Numbers 0..9</a>
+### Solution: <a title="06 Numbers 0..9" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p06_Numbers0To9/Numbers0To9.java">06 Numbers 0..9</a>
 
 ---
 
@@ -208,7 +208,7 @@ Write a program that calculates the product of all numbers in the interval
 
 <br/>
 
-### Solution: <a title="07 Product of Numbers From N To M" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p07_ProductOfNumbersNtoM/ProductOfNumbersNtoM.java">07 Product of Numbers \[N..M]</a>
+### Solution: <a title="07 Product of Numbers From N To M" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p07_ProductOfNumbersNtoM/ProductOfNumbersNtoM.java">07 Product of Numbers \[N..M]</a>
 
 ---
 
@@ -230,7 +230,7 @@ combinations):
 
 <br/>
 
-### Solution: <a title="08 Lottery" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p08_Lottery/Lottery.java">08 Lottery</a>
+### Solution: <a title="08 Lottery" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p08_Lottery/Lottery.java">08 Lottery</a>
 
 ---
 
@@ -250,7 +250,7 @@ from bit 0.
 
 <br/>
 
-### Solution: <a title="09 Extract Bit from Integer" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p09_ExtractABitFromInteger/ExtractABitFromInteger.java">09 Extract Bit from Integer</a>
+### Solution: <a title="09 Extract Bit from Integer" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p09_ExtractABitFromInteger/ExtractABitFromInteger.java">09 Extract Bit from Integer</a>
 
 ---
 
@@ -273,6 +273,6 @@ Print the decimal representation of the resulting number.
 
 <br/>
 
-### Solution: <a title="10 Modify a Bit" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/Java%20Advanced%20May%202018/03%20INTRO%20TO%20JAVA/p10_ModifyABit/ModifyABit.java">10 Modify a Bit</a>
+### Solution: <a title="10 Modify a Bit" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/03%20INTRO%20TO%20JAVA/p10_ModifyABit/ModifyABit.java">10 Modify a Bit</a>
 
 ---
