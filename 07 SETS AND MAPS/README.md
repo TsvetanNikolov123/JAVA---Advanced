@@ -114,7 +114,7 @@ Write program that:
 
 <br/>
 
-### Solution: <a title="03 "Voina" - Number game" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/07%20SETS%20AND%20MAPS/p03_VoinaNumberGame/VoinaNumberGame.java">03 "Voina" - Number game</a>
+### Solution: <a title="03 Voina" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/07%20SETS%20AND%20MAPS/p03_VoinaNumberGame/VoinaNumberGame.java">03 "Voina" \- Number game</a>
 
 ---
 
