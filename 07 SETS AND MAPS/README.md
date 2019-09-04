@@ -1,4 +1,4 @@
-07 Lab: Java Advanced Sets and Maps
+07 Lab: Sets and Maps
 ===================================
 
 ---
