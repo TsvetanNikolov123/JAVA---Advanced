@@ -139,6 +139,96 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="" href=""></a>***
+***<a title="01 Parking Lot" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/07%20SETS%20AND%20MAPS#0701-parking-lot">01 Parking Lot</a>***
 
-***<a title="" href=""></a>***
+***<a title="02 SoftUni Party" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/07%20SETS%20AND%20MAPS#0702-softuni-party">02 SoftUni Party</a>***
+
+***<a title="03 Voina Number game" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/07%20SETS%20AND%20MAPS#0703-voina---number-game">03 \"Voina\" \- Number game</a>***
+
+***<a title="04 Count Same Values in Array" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/07%20SETS%20AND%20MAPS#0704-count-same-values-in-array">04 Count Same Values in Array</a>***
+
+***<a title="05 Academy Graduation" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/07%20SETS%20AND%20MAPS#0705-academy-graduation">05 Academy Graduation</a>***
+
+---
+---
+
+## 08. Exercise: Sets and Maps
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Unique Usernames" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0801-unique-usernames">01 Unique Usernames</a>***
+
+***<a title="02 Sets of Elements" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0802-sets-of-elements">02 Sets of Elements</a>***
+
+***<a title="03 Periodic Table" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0803-periodic-table">03 Periodic Table</a>***
+
+***<a title="04 Count Symbols" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0804-count-symbols">04 Count Symbols</a>***
+
+***<a title="05 Phonebook" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0805-phonebook">05 Phonebook</a>***
+
+***<a title="06 A Miner Task" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0806-a-miner-task">06 A Miner Task</a>***
+
+***<a title="07 Fix Emails" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0807-fix-emails">07 Fix Emails</a>***
+
+***<a title="08 Hands Of Cards" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0808-hands-of-cards">08 Hands Of Cards</a>***
+
+***<a title="09 * User Logs" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0809--user-logs">09 \* User Logs</a>***
+
+***<a title="10 * Population Counter" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0810--population-counter">10 \* Population Counter</a>***
+
+***<a title="11 * Logs Aggregator" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0811--logs-aggregator">11 \* Logs Aggregator</a>***
+
+***<a title="12 * Legendary Farming" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0812--legendary-farming">12 * Legendary Farming</a>***
+
+***<a title="13 ** Srabsko Unleashed" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0813--%D1%81%D1%80%D1%8A%D0%B1%D1%81%D0%BA%D0%BE-unleashed">13 \*\* Сръбско Unleashed</a>***
+
+***<a title="14 *** Dragon Army" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/08%20EXERCISE%20SETS%20AND%20MAPS#0814--dragon-army">14 \*\*\* Dragon Army</a>***
+
+---
+---
+
+## 09. Lab: Files and Streams
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Read File" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0901-read-file">01 Read File</a>***
+
+***<a title="02 Writ to File" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0902-writ-to-file">02 Writ to File</a>***
+
+***<a title="03 Copy Bytes" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0903-copy-bytes">03 Copy Bytes</a>***
+
+***<a title="04 Extract Integers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0904-extract-integers">04 Extract Integers</a>***
+
+***<a title="05 Write Every Third Line" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0905-write-every-third-line">05 Write Every Third Line</a>***
+
+***<a title="06 Sort Lines" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0906-sort-lines">06 Sort Lines</a>***
+
+***<a title="07 List Files" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0907-list-files">07 List Files</a>***
+
+***<a title="08 Nested Folders" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0908-nested-folders">08 Nested Folders</a>***
+
+***<a title="09 Serialize Custom Object" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/09%20INPUTOUTPUT%2C%20FILES%20AND%20DIRECTORIES#0909-serialize-custom-object">09 Serialize Custom Object</a>***
+
+---
+---
+
+## 10. Lab: String Processing
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Students Results" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1001-students-results">01 Student’s Results</a>***
+
+***<a title="02 Parse URL" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1002-parse-url">02 Parse URL</a>***
+
+***<a title="03 Parse Tags" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1003-parse-tags">03 Parse Tags</a>***
+
+***<a title="04 Series of Letters" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1004-series-of-letters">04 Series of Letters</a>***
+
+***<a title="05 Vowel Count" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1005-vowel-count">05 Vowel Count</a>***
+
+***<a title="06 Extract Tags" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1006-extract-tags">06 Extract Tags</a>***
+
+***<a title="07 Valid Usernames" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1007-valid-usernames">07 Valid Usernames</a>***
