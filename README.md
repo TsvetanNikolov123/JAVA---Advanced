@@ -73,7 +73,72 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="" href=""></a>***
+***<a title="01 Encrypt, Sort and Print Array" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0501-encrypt-sort-and-print-array">01 Encrypt, Sort and Print Array</a>***
+
+***<a title="02 Split by Word Casing" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0502-split-by-word-casing">02 Split by Word Casing</a>***
+
+***<a title="03 Sum Matrix Elements" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0503-sum-matrix-elements">03 Sum Matrix Elements</a>***
+
+***<a title="04 Maximum Sum of 2x2 Submatrix" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0504-maximum-sum-of-2x2-submatrix">04 Maximum Sum of 2x2 Submatrix</a>***
+
+***<a title="05 Simple Calculator" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0505-simple-calculator">05 Simple Calculator</a>***
+
+***<a title="06 Decimal to Binary Converter" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0506-decimal-to-binary-converter">06 Decimal to Binary Converter</a>***
+
+***<a title="07 Matching Brackets" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0507-matching-brackets">07 Matching Brackets</a>***
+
+***<a title="08 Hot Potato" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0508-hot-potato">08 Hot Potato</a>***
+
+***<a title="09 Math Potato" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/05%20LINEAR%20DATA%20STRUCTURES#0809-math-potato">09 Math Potato</a>***
+
+---
+---
+
+## 06. Exercise: Linear Data Structures
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Fill the Matrix" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0601-fill-the-matrix">01 Fill the Matrix</a>***
+
+***<a title="02 Matrix of Palindromes" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0602-matrix-of-palindromes">02 Matrix of Palindromes</a>***
+
+***<a title="03 Diagonal Difference" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0603-diagonal-difference">03 Diagonal Difference</a>***
+
+***<a title="04 Maximal Sum" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0604-maximal-sum">04 Maximal Sum</a>***
+
+***<a title="05 Matrix shuffling" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0605-matrix-shuffling">05 Matrix shuffling</a>***
+
+***<a title="06 * String Matrix Rotation" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0606--string-matrix-rotation">06 \* String Matrix Rotation</a>***
+
+***<a title="07 Reverse Numbers with a Stack" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0607-reverse-numbers-with-a-stack">07 Reverse Numbers with a Stack</a>***
+
+***<a title="08 Basic Stack Operations" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0608-basic-stack-operations">08 Basic Stack Operations</a>***
+
+***<a title="09 Maximum Element" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0609-maximum-element">09 Maximum Element</a>***
+
+***<a title="10 Basic Queue Operations" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0610-basic-queue-operations">10 Basic Queue Operations</a>***
+
+***<a title="11 Robotics" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0611-robotics">11 Robotics</a>***
+
+***<a title="12 Balanced Parentheses" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0612-balanced-parentheses">12 Balanced Parentheses</a>***
+
+***<a title="13 Recursive Fibonacci" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0613-recursive-fibonacci">13 Recursive Fibonacci</a>***
+
+***<a title="14 Simple Text Editor" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0614-simple-text-editor">14 \*Simple Text Editor</a>***
+
+***<a title="15 *Infix to Postfix" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0615-infix-to-postfix">15 \*Infix to Postfix</a>***
+
+***<a title="16 **Poisonous Plants" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/06%20EXERCISE%20LINEAR%20DATA%20STRUCTURES#0616-poisonous-plants">16 \*\*Poisonous Plants</a>***
+
+---
+---
+
+## 07. Lab: Sets and Maps
+
+### Tasks Requirements And Solutions
+<br>
 
 ***<a title="" href=""></a>***
 
+***<a title="" href=""></a>***
