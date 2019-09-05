@@ -232,3 +232,73 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 ***<a title="06 Extract Tags" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1006-extract-tags">06 Extract Tags</a>***
 
 ***<a title="07 Valid Usernames" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/10%20STRING%20PROCESSING#1007-valid-usernames">07 Valid Usernames</a>***
+
+---
+---
+
+## 11. Exercise: String Processing
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Count Substring Occurrences" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1101-count-substring-occurrences">01 Count Substring Occurrences</a>***
+
+***<a title="02 Sum Big Numbers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1102-sum-big-numbers">02 Sum Big Numbers</a>***
+
+***<a title="03 Text Filter" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1103-text-filter">03 Text Filter</a>***
+
+***<a title="04 Unicode Characters" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1104-unicode-characters">04 Unicode Characters</a>***
+
+***<a title="05 Palindromes" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1105-palindromes">05 Palindromes</a>***
+
+***<a title="06 Magic Exchangeable Words" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1106-magic-exchangeable-words">06 Magic Exchangeable Words</a>***
+
+***<a title="07 Letters Change Numbers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1107--letters-change-numbers">07 \* Letters Change Numbers</a>***
+
+***<a title="08 Melrah Shake" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1108--melrah-shake">08 \*\* Melrah Shake</a>***
+
+***<a title="09 Match Full Name" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1109-match-full-name">09 Match Full Name</a>***
+
+***<a title="10 Match Phone Number" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1110-match-phone-number">10 Match Phone Number</a>***
+
+***<a title="11 Replace a Tag" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1111-replace-a-tag">11 Replace \<a\> Tag</a>***
+
+***<a title="12 Extract Emails" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1112-extract-emails">12 Extract Emails</a>***
+
+***<a title="13 Sentence Extractor" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1113-sentence-extractor">13 Sentence Extractor</a>***
+
+***<a title="14 Sum of All Values" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1114-sum-of-all-values">14 \*Sum of All Values</a>***
+
+***<a title="15 Valid Usernames" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1115-valid-usernames">15 \*Valid Usernames</a>***
+
+***<a title="16 Extract Hyperlinks" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/11%20EXERCISE%20STRING%20PROCESSING#1116-extract-hyperlinks">16 \*\*Extract Hyperlinks</a>***
+
+---
+---
+
+## 12. Lab: Functional Programming
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Sort Even Numbers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/12%20FUNCTIONAL%20PROGRAMMING#1201-sort-even-numbers">01 Sort Even Numbers</a>***
+
+***<a title="02 Sum Numbers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/12%20FUNCTIONAL%20PROGRAMMING#1202-sum-numbers">02 Sum Numbers</a>***
+
+***<a title="03 Count Uppercase Words" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/12%20FUNCTIONAL%20PROGRAMMING#1203-count-uppercase-words">03 Count Uppercase Words</a>***
+
+***<a title="04 Add VAT" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/12%20FUNCTIONAL%20PROGRAMMING#1204-add-vat">04 Add VAT</a>***
+
+***<a title="05 Filter by Age" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/12%20FUNCTIONAL%20PROGRAMMING#1205-filter-by-age">05 Filter by Age</a>***
+
+---
+---
+
+## 13. Exercise: Functional Programming
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="" href=""></a>***
+
+***<a title="" href=""></a>***
