@@ -299,6 +299,62 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="" href=""></a>***
+***<a title="01 Consumer Print" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1301-consumer-print">01 Consumer Print</a>***
+
+***<a title="02 Knights of Honor" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1302-knights-of-honor">02 Knights of Honor</a>***
+
+***<a title="03 Custom Min Function" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1303-custom-min-function">03 Custom Min Function</a>***
+
+***<a title="04 Find Evens or Odds" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1304-find-evens-or-odds">04 Find Evens or Odds</a>***
+
+***<a title="05 Applied Arithmetic" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1305-applied-arithmetic">05 Applied Arithmetic</a>***
+
+***<a title="06 Reverse and Exclude" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1306-reverse-and-exclude">06 Reverse and Exclude</a>***
+
+***<a title="07 Predicate for names" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1307-predicate-for-names">07 Predicate for names</a>***
+
+***<a title="08 Find the smallest element" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1308-find-the-smallest-element">08 Find the smallest element</a>***
+
+***<a title="09 Custom Comparator" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1309-custom-comparator">09 Custom Comparator</a>***
+
+***<a title="10 List of Predicates" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1310-list-of-predicates">10 List of Predicates</a>***
+
+***<a title="11 Predicate Party\!" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1311-predicate-party">11 Predicate Party\!</a>***
+
+***<a title="12 \* The Party Reservation Filter Module" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1312--the-party-reservation-filter-module">12 \* The Party Reservation Filter Module</a>***
+
+***<a title="13 *Inferno III" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/13%20EXERCISE%20FUNCTIONAL%20PROGRAMMING#1313-inferno-iii">13 \*Inferno III</a>***
+
+---
+---
+
+## 14. Lab: Stream API
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Take Two" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1401-take-two">01 Take Two</a>***
+
+***<a title="02 Upper Strings" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1402-upper-strings">02 Upper Strings</a>***
+
+***<a title="03 First Name" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1403-first-name">03 First Name</a>***
+
+***<a title="04 Average of Doubles" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1404-average-of-doubles">04 Average of Doubles</a>***
+
+***<a title="05 Min Even Number" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1405-min-even-number">05 Min Even Number</a>***
+
+***<a title="06 Find and Sum Integers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1406-find-and-sum-integers">06 Find and Sum Integers</a>***
+
+***<a title="07 *Map Districts" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1407-map-districts">07 \*Map Districts</a>***
+
+***<a title="08 Bounded Numbers" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/14%20BUILT-IN%20QUERY%20METHODS%20-%20STREAM%20API#1408-bounded-numbers">08 Bounded Numbers</a>***
+
+---
+---
+
+## 14. Exercise: Stream API
+
+### Tasks Requirements And Solutions
+<br>
 
 ***<a title="" href=""></a>***
