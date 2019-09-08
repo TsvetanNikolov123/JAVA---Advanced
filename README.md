@@ -352,7 +352,43 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 ---
 ---
 
-## 14. Exercise: Stream API
+## 15. Exercise: Stream API
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Students by Group" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1501-students-by-group">01 Students by Group</a>***
+
+***<a title="02 Students by First and Last Name" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1502-students-by-first-and-last-name">02 Students by First and Last Name</a>***
+
+***<a title="03 Students by Age" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1503-students-by-age">03 Students by Age</a>***
+
+***<a title="04 Sort Students" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1504-sort-students">04 Sort Students</a>***
+
+***<a title="05 Filter Students by Email Domain" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1505-filter-students-by-email-domain">05 Filter Students by Email Domain</a>***
+
+***<a title="06 Filter Students by Phone" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1506-filter-students-by-phone">06 Filter Students by Phone</a>***
+
+***<a title="07 Excellent Students" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1507-excellent-students">07 Excellent Students</a>***
+
+***<a title="08 Weak Students" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1508-weak-students">08 Weak Students</a>***
+
+***<a title="09 Students Enrolled in 2014 or 2015" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1509-students-enrolled-in-2014-or-2015">09 Students Enrolled in 2014 or 2015</a>***
+
+***<a title="10 * Group by Group" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1510--group-by-group">10 \* Group by Group</a>***
+
+***<a title="11 * Students Joined to Specialties" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1511--students-joined-to-specialties">11 \* Students Joined to Specialties</a>***
+
+***<a title="12 * Little John" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1512--little-john">12 * Little John</a>***
+
+***<a title="13 * Office Stuff" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1512--little-john">13 * Office Stuff</a>***
+
+***<a title="14 ** Export to Excel" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1514--export-to-excel">14 ** Export to Excel</a>***
+
+---
+---
+
+## 16. Exam Preparation I
 
 ### Tasks Requirements And Solutions
 <br>
