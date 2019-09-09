@@ -381,7 +381,7 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 
 ***<a title="12 * Little John" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1512--little-john">12 * Little John</a>***
 
-***<a title="13 * Office Stuff" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1512--little-john">13 * Office Stuff</a>***
+***<a title="13 * Office Stuff" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1513--office-stuff">13 * Office Stuff</a>***
 
 ***<a title="14 ** Export to Excel" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/15%20EXERCISE%20BUILT-IN%20QUERY%20METHODS%20STREAM%20API#1514--export-to-excel">14 ** Export to Excel</a>***
 
@@ -393,4 +393,26 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 ### Tasks Requirements And Solutions
 <br>
 
-***<a title="" href=""></a>***
+***<a title="01 Shockwave" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/16%20Exam%20Preparation%20I#solution-01-shockwave">01 Shockwave</a>***
+
+***<a title="02 Little Alchemy" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/16%20Exam%20Preparation%20I#1602-little-alchemy">02 Little Alchemy</a>***
+
+***<a title="03 Ascent" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/16%20Exam%20Preparation%20I#1603-ascent">03 Ascent</a>***
+
+***<a title="04 Football Stats" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/16%20Exam%20Preparation%20I#1604-football-stats">04 Football Stats</a>***
+
+---
+---
+
+## 17. Exam Preparation II
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 DHARMA Supplies" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/17%20Exam%20Preparation%20II#1701-dharma-supplies">01 DHARMA Supplies</a>***
+
+***<a title="02 Crossfire" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/17%20Exam%20Preparation%20II#1702-crossfire">02 Crossfire</a>***
+
+***<a title="03 Earthquake" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/17%20Exam%20Preparation%20II#1703-earthquake">03 Earthquake</a>***
+
+***<a title="04 GUnit" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/17%20Exam%20Preparation%20II#1704-gunit">04 GUnit</a>***
