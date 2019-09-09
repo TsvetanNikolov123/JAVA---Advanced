@@ -239,12 +239,6 @@ encountered with their **total** amount of genes.
 
 ### Solution: <a title="03 Genome" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/18%20EXAM/p03_Genome/Genome.java">03 Genome</a>
 
-<br/>
-
-### Solution: <a title="https://github.com/TsvetanNikolov123/JAVA---Advanced/blob/master/18%20EXAM/p03_Genome/Genome.java" href=""></a>
-
----
-
 18.04 Ranking
 -------------
 
