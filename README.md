@@ -416,3 +416,38 @@ Java Fundamentals: Java Advanced - May 2018 @ SoftUni
 ***<a title="03 Earthquake" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/17%20Exam%20Preparation%20II#1703-earthquake">03 Earthquake</a>***
 
 ***<a title="04 GUnit" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/17%20Exam%20Preparation%20II#1704-gunit">04 GUnit</a>***
+
+---
+---
+
+## 18. EXAM
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Internship" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/18%20EXAM#1801-internship">01 Internship</a>***
+
+***<a title="02 Snake" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/18%20EXAM#1802-snake">02 Snake</a>***
+
+***<a title="03 Genome" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/18%20EXAM#1803-genome">03 Genome</a>***
+
+***<a title="04 Ranking" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/18%20EXAM#1804-ranking">04 Ranking</a>***
+
+---
+---
+
+## 19. Retake Exam
+
+### Tasks Requirements And Solutions
+<br>
+
+***<a title="01 Agency" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/19%20Retake%20Exam#1901-agency">01 Agency</a>***
+
+***<a title="02 Bomb Field" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/19%20Retake%20Exam#1902-bomb-field">02 Bomb Field</a>***
+
+***<a title="03 Mission" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/19%20Retake%20Exam#1903-mission">03 Mission</a>***
+
+***<a title="04 Agents" href="https://github.com/TsvetanNikolov123/JAVA---Advanced/tree/master/19%20Retake%20Exam#1904-agents">04 Agents</a>***
+
+---
+---
